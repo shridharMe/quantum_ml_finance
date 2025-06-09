@@ -149,5 +149,5 @@ Alternatively, use Docker as described in the Docker Support section.
 ## References
 
 - [PennyLane Documentation](https://pennylane.ai/qml/)
-- [Quantum Machine Learning for Finance](https://pennylane.ai/qml/demos/tutorial_quantum_finance.html)
+- [Quantum Machine Learning for Finance](https://pennylane.ai/search?categories=quantum%20machine%20learning&sort=publication_date&contentType=DEMO)
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum)
